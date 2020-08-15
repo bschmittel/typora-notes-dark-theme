@@ -36,7 +36,7 @@
 
   --border-radius: 3px;
 
-  --font-size: 14px;
+  --font-size: 16px; /* Increase font size */
   --font-family: system-ui;
   --monospace: 'Fira Mono', 'Cousine', 'Consolas', monospace;
 
